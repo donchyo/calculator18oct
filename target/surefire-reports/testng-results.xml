@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="177" started-at="2016-10-18T13:20:32Z" finished-at="2016-10-18T13:20:32Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="177" started-at="2016-10-18T13:20:32Z" finished-at="2016-10-18T13:20:32Z">
+      <class name="CalculatorTest">
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:testAdd(CalculatorTest)]" name="testAdd" duration-ms="10" started-at="2016-10-18T15:20:32Z" finished-at="2016-10-18T15:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method status="PASS" signature="testSub()[pri:0, instance:testSub(CalculatorTest)]" name="testSub" duration-ms="0" started-at="2016-10-18T15:20:32Z" finished-at="2016-10-18T15:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSub -->
+        <test-method status="PASS" signature="testDivi0()[pri:0, instance:testDivi0(CalculatorTest)]" name="testDivi0" duration-ms="2" started-at="2016-10-18T15:20:32Z" finished-at="2016-10-18T15:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivi0 -->
+        <test-method status="PASS" signature="testMulti()[pri:0, instance:testMulti(CalculatorTest)]" name="testMulti" duration-ms="3" started-at="2016-10-18T15:20:32Z" finished-at="2016-10-18T15:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMulti -->
+        <test-method status="PASS" signature="testDivi()[pri:0, instance:testDivi(CalculatorTest)]" name="testDivi" duration-ms="1" started-at="2016-10-18T15:20:32Z" finished-at="2016-10-18T15:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivi -->
+      </class> <!-- CalculatorTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
